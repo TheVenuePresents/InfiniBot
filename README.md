@@ -105,7 +105,7 @@ sudo bash rebuild_and_run.bash
 ### Troubleshooting
 Due to the way the bot works under the hood, you may need to restart InfiniBot after adding it to its first server. You can do this by running the previous command again:
 ```bash
-sudo bash rebuild_and_run.bash
+sudo 
 ```
 
 In addition, you may need to wait a few hours before all of InfiniBot's commands appear in your Discord client. This is due to Discord's caching system, which can take time to update. Try restarting your Discord client for the changes to take effect.
